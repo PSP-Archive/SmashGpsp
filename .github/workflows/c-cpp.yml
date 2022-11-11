@@ -21,7 +21,7 @@ jobs:
         run: |
           apk add bash cmake git gmp mpc1 mpfr4 make
       - run: |
-          git config --global --add safe.directory /__w/PSP-UAE4ALL/PSP-UAE4ALL
+          git config --global --add safe.directory /__w/SmashGpsp/SmashGpsp
           
       - name: Checkout
         uses: actions/checkout@v2
