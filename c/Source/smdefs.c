@@ -206,9 +206,9 @@
 #define	proj_scope			1
 #define	proj_raygun		2
 
-#include "..\autre.c"
-#include "..\decors_.c"
-#include "..\fonts.c"
+#include "../autre.c"
+#include "../decors_.c"
+#include "../fonts.c"
 //#include "c\loading.c"
 
 #define	nb_sons			33
